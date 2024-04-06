@@ -1,7 +1,5 @@
 # PR4_EricAyala
 
-# PR4_PD_EricAyala
-
 ## PRACTICA 4:  SISTEMAS OPERATIVOS EN TIEMPO REAL
 
 ### Ejercicio Practico 1
